@@ -1,0 +1,43 @@
+[{
+    "bookId":"1",
+    "index": "1",
+    "name": "用AngularJS开发下一代WEB应用",
+    "author": "大漠穷秋",
+    "pubTime": "2013-10-01",
+    "price":"47.40"
+}, {
+    "bookId":"2",
+    "index": "2",
+    "name": "AngularJS权威教程",
+    "author": "勒纳(Ari Lerner)",
+    "pubTime": "2014-08-01",
+    "price":"83.30"
+}, {
+    "bookId":"3",
+    "index": "3",
+    "name": "AngularJS深度剖析与最佳实践",
+    "author": "雪狼，破狼，彭洪伟",
+    "pubTime": "2016-01-01",
+    "price":"56.90"
+}, {
+    "bookId":"4",
+    "index": "4",
+    "name": "New Concept English 2 New Editon",
+    "author": "外语教学与研究出版社",
+    "pubTime": "1997-10-01",
+    "price":"29.10"
+}, {
+    "bookId":"5",
+    "index": "5",
+    "name": "剑桥雅思考试全真试题集套装",
+    "author": "剑桥大学考试委员会 ",
+    "pubTime": "2015-08-01",
+    "price":"521.40 "
+}, {
+    "bookId":"6",
+    "index": "6",
+    "name": "The Society and Culture of Major English-Speaking Countries An Introduction",
+    "author": "高等教育出版社",
+    "pubTime": "2011-06-01",
+    "price":"37.80 "
+}]
